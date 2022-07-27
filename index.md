@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## About Me
+I'm currently a PhD student of Economics Department, Nanyang Technological University.
 
 You can use the [editor on GitHub](https://github.com/LuckyJasmin/ZHANG-XIAOJIE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
